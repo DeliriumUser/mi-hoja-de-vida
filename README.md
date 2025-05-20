@@ -3,6 +3,7 @@
 **Correo electrónico:** dbarcojur@gmail.com
 ## Formación académica
 - Bachiller Técnico
+- Técnico en Comercio
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
 ## Habilidades
 - Conocimientos básicos en programación
